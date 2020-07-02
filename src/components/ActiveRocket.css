@@ -1,0 +1,19 @@
+.activeRocket {
+  display: flex;
+  margin: 1rem;
+  padding: 1rem;
+  border-bottom: 1px solid lightgray;
+}
+
+.activeRocket:last-child {
+  border: none;
+}
+
+.elements {
+  padding: 5px;
+}
+
+.separator {
+  font-weight: 900;
+  border-right: 2px solid lightblue;
+}

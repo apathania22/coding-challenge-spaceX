@@ -1,0 +1,7 @@
+.dashboard {
+  border: 2px solid lightgray;
+  background-color: white;
+  border-radius: 10px;
+  width: 60%;
+  margin: auto;
+}
